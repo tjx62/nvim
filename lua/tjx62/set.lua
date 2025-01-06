@@ -17,3 +17,5 @@ vim.opt.wrap = false
 vim.opt.incsearch = true -- incremental search
  
 vim.opt.termguicolors = true
+
+vim.opt.wildmenu = true
