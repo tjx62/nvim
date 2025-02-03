@@ -2,3 +2,9 @@ go mono nerdfont - font for terminal
 xclip - for yank to system
 ripgrep - faster grep
 lazygit - easier git
+
+# zsh
+ruby
+colorls
+pl10k
+fastfetch
